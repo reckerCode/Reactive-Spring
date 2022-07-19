@@ -1,0 +1,5 @@
+io/spring/reactive/reactiveSpring/GreetingRouter.class
+io/spring/reactive/reactiveSpring/ReactiveSpringApplication.class
+io/spring/reactive/reactiveSpring/Greeting.class
+io/spring/reactive/reactiveSpring/GreetingHandler.class
+io/spring/reactive/reactiveSpring/GreetingClient.class
